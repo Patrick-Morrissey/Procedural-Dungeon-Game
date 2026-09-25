@@ -107,4 +107,4 @@ Run the game.
 
 ## Controls
 
-All available in-game by accessing the help window
+All available in-game by accessing the help window by pressing (?) once in game.
